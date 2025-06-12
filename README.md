@@ -129,7 +129,7 @@ graph TD
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/stylematch-assistant.git
+git clone https://github.com/minkhant1996/Min-StyleMatch-AI.git
 cd stylematch-assistant
 pip install -r requirements.txt
 ```
