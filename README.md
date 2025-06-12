@@ -1,18 +1,12 @@
 ---
 title: Min StyleMatch AI
 emoji: 📉
-colorFrom: gray
-colorTo: green
-sdk: gradio
-sdk_version: 5.33.1
-app_file: app.py
-pinned: false
 license: apache-2.0
 short_description: LLM-Powered Styling & Color Analysis via MCP Server + Gradio
 tags:
-  - Agents-MCP-Hackathon
-  - mcp-server-track
-  - agent-demo-track
+  - Gradio MCP Client
+  - Color Analysis
+  - Personalized Product Recommendation
 ---
 
 # Project Name: Min-StyleMatch AI – LLM-Powered Styling & Color Analysis via MCP Server + Gradio Client
