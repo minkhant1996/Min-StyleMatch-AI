@@ -1,0 +1,9 @@
+mcp
+gradio
+gradio[mcp]
+gradio-client
+openai
+pandas
+numpy
+python-dotenv
+cryptography

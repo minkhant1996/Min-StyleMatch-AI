@@ -1,0 +1,13 @@
+Name: Min Khant Soe
+
+Bio: 
+Min Khant Soe is a senior AI developer with a passion for developing innovative solutions. 
+With a background in AI, IoT and data science, he has worked on various projects that leverage cutting-edge technologies. 
+Min is dedicated to continuous learning and enjoys sharing his knowledge with the community.
+
+Location: Bangkok, Thailand
+Interests:
+- Software Development
+- Generative AI projects that enhance user experiences
+- Open Source Contributions
+- Exploring new programming languages and frameworks
