@@ -1,8 +1,4 @@
 ---
-title: Min StyleMatch AI
-emoji: 📉
-license: apache-2.0
-short_description: LLM-Powered Styling & Color Analysis via MCP Server + Gradio
 tags:
   - Gradio MCP Client
   - Color Analysis
